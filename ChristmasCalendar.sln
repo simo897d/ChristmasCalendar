@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasCalendar", "ChristmasCalendar\ChristmasCalendar.csproj", "{AF36990D-8979-4569-A981-6D7D4A5972C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChristmasCalendarAPI", "ChristmasCalendarAPI\ChristmasCalendarAPI.csproj", "{1BBF5258-9C84-4B88-8271-1B085725F713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF36990D-8979-4569-A981-6D7D4A5972C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF36990D-8979-4569-A981-6D7D4A5972C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF36990D-8979-4569-A981-6D7D4A5972C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF36990D-8979-4569-A981-6D7D4A5972C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBF5258-9C84-4B88-8271-1B085725F713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBF5258-9C84-4B88-8271-1B085725F713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBF5258-9C84-4B88-8271-1B085725F713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBF5258-9C84-4B88-8271-1B085725F713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A11EB51F-A882-4043-909F-EB418807FB53}
+	EndGlobalSection
+EndGlobal
